@@ -1,0 +1,1 @@
+{"version":3,"file":"static/iframe.af6c3f8ab821742cf95d.bundle.js","sources":["webpack:///./.storybook/config.js"],"sourcesContent":["const getFoo = () => {\n  if (process.env.NODE_ENV === 'development') {\n    console.log('dev')\n  }\n\n  return 'foo'\n}\n\nconsole.log(getFoo())\n\n"],"mappings":"AAQA","sourceRoot":""}
